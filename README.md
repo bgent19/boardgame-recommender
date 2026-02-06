@@ -1,10 +1,10 @@
 # BoardGame Recommender System
 
-A professional-grade recommendation engine for board games, built to demonstrate full-stack development skills, machine learning implementation, and DevOps practices.
+A recommendation engine for board games, built for fun anf to practice full-stack development skills, machine learning implementation, and DevOps.
 
 ## Project Overview
 
-This system helps users discover board games they'll love based on their preferences, ratings, and similar users' tastes. Built as a portfolio piece showcasing modern software engineering practices.
+This system helps users discover board games they'll love based on their preferences, ratings, and similar users' tastes.
 
 ## Features (Planned)
 
@@ -18,7 +18,7 @@ This system helps users discover board games they'll love based on their prefere
 - **Rating System** - Rate games and improve recommendations
 - **Search & Discovery** - Browse and filter the game catalog
 
-### Technical Features (What Makes This Portfolio-Worthy)
+### Things I hope to learn
 - RESTful API with automatic documentation
 - Type-safe frontend with TypeScript
 - Comprehensive test coverage (unit, integration, e2e)
@@ -106,23 +106,10 @@ This project is being built iteratively to demonstrate professional development 
 
 (Instructions will be added as the project develops)
 
-## Learning Outcomes
-
-This project demonstrates proficiency in:
-- Full-stack web development
-- RESTful API design
-- Database design and optimization
-- Machine learning and recommendation systems
-- Test-driven development
-- Docker and containerization
-- CI/CD pipelines
-- Cloud deployment
-- Professional code organization
-
 ## License
 
 MIT License (for portfolio purposes)
 
 ## Author
 
-Built as a portfolio project to demonstrate professional software engineering practices.
+Built as a boardgame enthusiast looking for a product like this in the hobby.
