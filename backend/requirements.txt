@@ -1,1 +1,32 @@
+# Web framework
 fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy[asyncio]
+asyncpg
+alembic
+
+# Data validation
+pydantic
+pydantic-settings
+
+# Auth
+python-jose[cryptography]
+passlib[bcrypt]
+
+# ML & Data
+scikit-learn
+pandas
+numpy
+
+# Caching
+redis
+
+# Testing
+pytest
+pytest-asyncio
+httpx
+
+# Dev tools
+ruff
